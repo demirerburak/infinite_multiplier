@@ -1,0 +1,4 @@
+Multiplier: 5238.12
+Multiplicand: 21.85
+Result: 114452.922
+Elapsed time: 0.003751 seconds
